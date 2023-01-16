@@ -16,13 +16,13 @@ npm run dev
 <hr>
 To access the api on the cloud, use this link:-
 
-[API root directory](rest-api-practise-production.up.railway.app)
+<a href="https://rest-api-practise-production.up.railway.app/" target="_blank">API root directory</a>
 
 Use these routes to navigate:-
 
-[Products api](rest-api-practise-production.up.railway.app/api/products)
+<a href="https://rest-api-practise-production.up.railway.app/api/products" target="_blank">Products api</a>
 
-[API testing page](rest-api-practise-production.up.railway.app/api/products/testing)
+<a href="https://rest-api-practise-production.up.railway.app/api/products/testing" target="_blank">API testing page</a>
 
 <hr>
 For special queries, pls check the code.
